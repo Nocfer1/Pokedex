@@ -15,11 +15,5 @@ This is a simple Pokédex application built using Vite+React, where users can br
 You can view the live version of the app here:  
 [**Pokédex Live Demo**](https://rrromanm.github.io/Pokedex) 
 
-## Screenshots
-
-![Pokédex Screenshot](./src/assets/screenshots/homepage.png)
-
-![Pokédex Screenshot](./src/assets/screenshots/details.png)
-
 ## Assignment Details
 [**Pokedex assignment**](https://github.com/KasperKnop/WEB2/blob/main/08%20Assignment%202/README.md)
